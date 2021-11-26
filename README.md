@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yousuf
-- 🌱 I’m currently learning React & Next JS
+- 🌱 I’m currently learning Next JS
 - 📫 How to reach me : contactyousuf500@gmail.com
 
 <!---
