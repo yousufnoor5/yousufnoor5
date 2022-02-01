@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yousuf
-- 🌱 I’m currently learning Next JS
+- 🌱 I’m currently learning Machine Learning !
 - 📫 How to reach me : contactyousuf5@gmail.com
 
 <!---
