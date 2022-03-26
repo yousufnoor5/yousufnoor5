@@ -9,7 +9,7 @@
 - 📫 How to reach me : contactyousuf5@gmail.com
 
 
-[![JavaScript](http://3con14.biz/code/_data/js/intro/js-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](https://github.com/coherencez/tech-logos/raw/master/jslogo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 <!---
 yousufnoor5/yousufnoor5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
