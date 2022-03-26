@@ -9,7 +9,7 @@
 - 📫 How to reach me : contactyousuf5@gmail.com
 
 
-![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png | width=60)
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50" height="50">
 
 <!---
 yousufnoor5/yousufnoor5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
