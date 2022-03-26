@@ -32,12 +32,6 @@
 
 <br/>
 
-<div>
-<img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousufnoor5&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
-<img align=top src="https://github-readme-stats.vercel.app/api?username=yousufnoor5&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
-</div>
-
-
 
 <!---
 yousufnoor5/yousufnoor5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
