@@ -1,5 +1,5 @@
 # 💫 About Me:
-I enjoy building simple, efficient, and maintainable software using modern technologies.<br><br>I like writing clean, modular code and working on projects that solve real problems. Clean code is very important to me; otherwise, my brain does not work smoothly.<br><br>I love making complex things simple, and I am a big fan of Linux.<br><br>PHP used to be my favorite language, but now I’m more interested in JavaScript and Python, not because I am someone who believes PHP is dead, but because JS and Python offer more possibilities, a bigger community, and more open-source libraries.<br><br>I’m currently learning deep learning, so my neurons are slightly overworked these days.<br><br>Outside of tech, I enjoy reading history and learning from it.<br><br>
+I enjoy building simple, efficient, and maintainable software using modern technologies.<br><br>I like writing clean, modular code and working on projects that solve real problems. Clean code is very important to me; otherwise, my brain does not work smoothly.<br><br>I love making complex things simple, and I am a big fan of Linux.<br><br>I’m currently learning deep learning, so my neurons are slightly overworked these days.<br><br>Outside of tech, I enjoy reading history and learning from it.<br><br>
 
 
 📁 Check out my portfolio : https://yousufnoor.dev
